@@ -47,9 +47,9 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
+  "serverHost": "Gun2Death.aternos.me",
+  "serverPort": 47338,
+  "botUsername": "ECONNBOT",
   "botChunk": 4
 }
 ```
